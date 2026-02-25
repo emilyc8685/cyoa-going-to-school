@@ -1,7 +1,12 @@
-# Going to School Adventure
-Your alarm rings. What do you do?
+# Choose your own adventure
 
-[Wake up](wake.up.md)
+### Going to School
 
-[Hit snooze](hit.snooze.md)
+Click [here](adventure.md) to begin!
+
+Click [here](cyoa-plan.png) to see the diagram of this CYOA!
+
+Made by Amy Ponce and Emily Chen 
+
+
 
