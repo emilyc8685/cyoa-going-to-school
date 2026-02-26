@@ -1,4 +1,4 @@
-# You get go to school in pjs and bunny slippers
+# You have to go to school in pjs and bunny slippers
 
 Do you take the train or the bus?
 
